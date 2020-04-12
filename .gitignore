@@ -1,3 +1,6 @@
 data/
 .DS_Store
 weights/
+*.csv
+.ipynb_checkpoints/
+
