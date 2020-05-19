@@ -3,4 +3,6 @@ data/
 weights/
 *.csv
 .ipynb_checkpoints/
+9videoclassification_ECO_DCNN/runs/
+
 
